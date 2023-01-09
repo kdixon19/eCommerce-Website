@@ -11,3 +11,29 @@ html {
     font-size: 62.5%;
 }
 
+header {
+    background-color: white;
+    padding: 1rem;
+    position: relative;
+}
+
+body {
+    background-color: black;
+}
+
+nav a {
+    text-decoration: none;
+
+}
+
+nav ul {
+    list-style-type: none;
+    position: absolute;
+    top: 0.7rem;
+    right: 1rem;
+}
+
+nav li {
+    display: inline;
+    margin-right: 0.5rem;
+}
